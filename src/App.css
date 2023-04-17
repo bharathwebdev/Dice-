@@ -13,10 +13,17 @@
   font-size:25px;
   border-radius: 8px;
   box-shadow: inset 2px 2px 2px ;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  padding: 1rem;
+  transition: 0.3s ease;
+  
+
 }
 .Roll_btn:hover{
   background-color: black;
   color: white;
+  
 }
 .Root_1{
   color:white;
